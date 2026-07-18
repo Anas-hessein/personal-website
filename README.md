@@ -14,6 +14,10 @@ A personal website with some information about me for example, my story, my drea
 About, Projects, and Footer.
 
 ## Screenshots
+<img width="1349" height="449" alt="Screenshot 2026-07-18 163413" src="https://github.com/user-attachments/assets/63f2f6f4-d54f-4c71-9c7c-7f69c9e11070" />
+<img width="1338" height="574" alt="Screenshot 2026-07-18 163438" src="https://github.com/user-attachments/assets/1b6eb795-276c-4840-844c-8abf126eb583" />
+<img width="1337" height="528" alt="Screenshot 2026-07-18 163427" src="https://github.com/user-attachments/assets/f82ca1e5-2542-4a62-93b6-92a55a54b17f" />
+
 
 ## Built With
 - **[VS Code](https://code.visualstudio.com/download?_exp_download=d53503e735)** : IDE
