@@ -23,6 +23,7 @@ header {
 section {
     margin-left: 50px;
     margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 section ul li div {
@@ -34,11 +35,11 @@ section ul li div {
 }
 
 section ul li h4 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 section ul li p {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 section ul hr {
@@ -91,4 +92,18 @@ footer{
     margin-top:20px;
     margin-bottom: 10px;
     text-align: center;   
+}
+
+
+main div{
+    padding-left: 30px;
+    margin-top:8px
+
+}
+
+main div a{
+    margin-left: 8px;
+    color: #fffefe;
+    font-size: 20px;
+    text-decoration: none;
 }
